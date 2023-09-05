@@ -1,0 +1,128 @@
+* {
+    background-color: #4699cb;
+}
+.bitbBoxSong{
+  width:33pc;
+    box-sizing: content-box;
+    padding:20px 20px 20px 20px;
+    border: 5px solid red;
+    border-width: medium;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+.bitbDOIT{
+    width:33pc;
+    box-sizing: content-box;
+    padding:20px 20px 20px 20px;
+    border: 5px solid red;
+    border-width: medium;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+.bitbMagic{
+   width:33pc;
+    box-sizing: content-box;
+    padding:20px 20px 20px 20px;
+    border: 5px solid red;
+    border-width: medium;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+.bitbContact {
+    width:33pc;
+    box-sizing: content-box;
+    padding:20px 20px 20px 20px;
+    border: 5px solid red;
+    border-width: medium;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+div {
+    width: 80pc;
+    padding: 50px;
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: center;
+}
+
+footer {
+    font-size: 2rem;
+    align-content: left;
+}
+
+h2 {
+    font-size: 4rem;
+    font-family: Umpush;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    color: red;
+}
+article {
+    font-family: Caveat;
+    text-align: center;
+    font-size: larger;
+    margin-left: 33%;
+    margin-right: 33%;
+    color: darkolivegreen;
+}
+aside {
+    font-size: larger;
+    text-align: center;
+}
+
+body {
+    font-family: "DejaVu Serif"
+}
+
+title {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 6rem;
+    font-family: sans-serif;
+    color: blue;
+    text-shadow: 3px 3px red;
+    position: relative;
+}
+
+blockquote {
+    font-family: FreeSans;
+    font-size: x-large;
+    text-align: center;
+}
+    h3 {
+        text-align: center;
+        font-family: "Droid Sans Mono";
+        font-size: 3rem;
+        text-shadow: 1px 1px black;
+    }
+
+    p {
+        font-family: Ramaraja;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    ul {
+        text-align: center;
+        margin-left: 33%;
+    margin-right: 33%;
+    }
+
+    ol {
+        text-align: center;
+
+    }
+
+    li {
+        font-size: larger;
+
+
+    }
+    img {
+        border: 10px solid #f3f2ed;
+
+    }
